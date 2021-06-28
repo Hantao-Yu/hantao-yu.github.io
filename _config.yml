@@ -1,6 +1,6 @@
 title: "Hantao Yu"
 author: "Hantao Yu"
-description: "UC San Diego"
+description: "UC San Diegox"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Hantao_CV.pdf", title: "CV",icon:home}
+  - {file: "Hantao_CV.pdf", title: "CV",icon: home}
   - {file: "index.html", title: "About"}
   - {title: "Research", file: "/research.md"}
   
