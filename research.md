@@ -13,3 +13,5 @@ My current interests include: Theoretical Computer Science, Combinatorics, Algeb
 - Homology of symmetric and exterior powers of the Koszul complex (under Steven Sam)
 - Directed reading, "Algebraic Number Theory" by Neukirch (under Kiran Kedlaya)
 - Directed reading, "Enumerative Combinatorics" by Stanley (under Steven Sam)
+- Directed reading, "Intro to Commutative Algebra" by Atiyah (under Dragos Oprea)
+
