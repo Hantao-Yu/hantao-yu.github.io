@@ -8,10 +8,10 @@ My current interests include: Theoretical Computer Science, Combinatorics, Algeb
 ### Ongoing Projects
 - Discrete Fourier Transform on Schurian Schemes (under Chris Umans)
 - Active learning through queries (under Max Hopkins)
+- Directed reading, "Algebraic Number Theory" by Neukirch (under Kiran Kedlaya)
 
 ### Past Projects
 - Homology of symmetric and exterior powers of the Koszul complex (under Steven Sam)
-- Directed reading, "Algebraic Number Theory" by Neukirch (under Kiran Kedlaya)
 - Directed reading, "Enumerative Combinatorics" by Stanley (under Steven Sam)
 - Directed reading, "Intro to Commutative Algebra" by Atiyah (under Dragos Oprea)
 
