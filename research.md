@@ -7,6 +7,7 @@ My current interests include: Theoretical Computer Science, Combinatorics, Algeb
 
 ### Ongoing Projects
 - Discrete Fourier Transform on Schurian Schemes (under Chris Umans)
+- Group-theoretic Algorithms for Matrix Multiplication (under Chris Umans)
 - Active learning through queries (under Max Hopkins)
 - Directed reading, "Algebraic Number Theory" by Neukirch (under Kiran Kedlaya)
 
